@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi Upadhyay</h1>
-<h3 align="center">A 3rd year student in S.R.M Institute of Science and Technology</h3>
+<h3 align="center">A 4th year student in S.R.M Institute of Science and Technology</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
